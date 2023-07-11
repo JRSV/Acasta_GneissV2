@@ -1,0 +1,7 @@
+AG-V2-VCDR-INT.TIME 0;
+AG-V2-VCDR/L/invt-tgl 1;
+AG-V2-VCDR/L/cbrt-tgl 1;
+AG-V2-VCDR/L/release-nbx 10000;
+AG-V2-VCDR/L/sens-nbx 0.7;
+AG-V2-VCDR/L/Q-filters-nbx 6.285;
+AG-V2-VCDR/L/osc-noise-hsl 127;

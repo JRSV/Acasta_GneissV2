@@ -1,0 +1,8 @@
+AG-V2-MLT2/L/rsize-nbx 99;
+AG-V2-MLT2/L/RVOL-nbx 1;
+AG-V2-MLT2/L/HVOL-nbx 0;
+AG-V2-MLT2/L/frz-tgl 0;
+AG-V2-MLT2/L/v-trnsp.1-nbx 0;
+AG-V2-MLT2/L/v-trnsp.2-nbx 0;
+AG-V2-MLT2/L/mult-msc matrix 2 3 0 0 0 1 0 0;
+AG-V2-MLT2-INT.TIME 0;

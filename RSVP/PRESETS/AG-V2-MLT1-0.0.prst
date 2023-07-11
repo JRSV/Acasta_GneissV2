@@ -1,0 +1,9 @@
+AG-V2-MLT1/L/tdelay_1-hsl 0;
+AG-V2-MLT1/L/mult-msc matrix 2 3 0 0 0 1 0 0;
+AG-V2-MLT1/L/tdelay_2-hsl 0;
+AG-V2-MLT1/L/fback-nbx 0;
+AG-V2-MLT1/L/amod-nbx 1;
+AG-V2-MLT1/L/fmod-nbx 2;
+AG-V2-MLT1/L/RVOL-nbx 1;
+AG-V2-MLT1/L/TVOL-nbx 0;
+AG-V2-MLT1-INT.TIME 0;
